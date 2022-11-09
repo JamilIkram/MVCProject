@@ -1,0 +1,50 @@
+﻿@model NewRole.ViewModels.VmmultiProduct
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var SupplyDate = Model.SupplyDate == null ? "" : Convert.ToDateTime(Model.SupplyDate).ToString("yyyy-MM-dd");
+
+}
+
+<h2>Edit Product</h2>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@using (Html.BeginForm("Edit", "multiProduct", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <div class="form-group">
+            Supplier
+            <select id="supplier_id" name="supplier_id" required>
+                @foreach (var item in Model.supplierList)
+                {
+                    var Selected = item.supplier_id == Model.supplier_id ? "selected" : "";
+                    <option value="@item.supplier_id" @Selected>@item.supplier_name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <div id="ProData" class="Table">
+                <div id="RowData" class="Row">
+                    <input type="hidden" name="ProductId" value="@Model.ProductId" />
+                    <input type="text" name="ProductName" placeholder="ProductName" value="@Model.ProductName" />
+                    <input type="text" name="Quantity" placeholder="Quantity" value="@Model.Quantity" />
+                    <input type="text" name="Price" placeholder="Price" value="@Model.Price" />
+                    <input type="date" name="SupplyDate" placeholder="SupplyDate" value="@SupplyDate" />
+                    <input type="file" name="imgFile" placeholder="imgFile" />
+                    <img src="@Model.ImagePath" style="width:150px" />
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Edit" class="btn btn-default">
+            </div>
+        </div>
+    </div>
+}
+

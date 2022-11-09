@@ -1,0 +1,138 @@
+﻿@model NewRole.Models.DataBind.Employee
+@{
+    /**/
+
+    ViewBag.Title = "Crud";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listMessage = ViewData["List"] as List<NewRole.Models.DataBind.Employee>;
+    var JoinningDate = Model.JoinningDate == null ? "" : Convert.ToDateTime(Model.JoinningDate).ToString("yyyy-MM-dd");
+    var rad1 = Model.Gender == "Male" ? "selected" : "";
+    var rad2 = Model.Gender == "Female" ? "selected" : "";
+}
+
+@using (Ajax.BeginForm(
+        "Crud",
+        "Employees",
+        new AjaxOptions
+        {
+            OnSuccess = "OnSuccess",
+            OnFailure = "OnFailure",
+            LoadingElementId = "progress",
+            HttpMethod = "POST"
+        },
+        new { enctype = "multipart/form-data" }
+    ))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(m => m.EmployeeId)
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.EmployeeName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.EmployeeName, new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.Gender, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div>
+            Male
+            @Html.RadioButtonFor(m => m.Gender, "Male")
+            Female
+            @Html.RadioButtonFor(m => m.Gender, "Female")
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.JoinningDate, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(m => m.JoinningDate, "date", new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(m => m.JoinningDate, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.Age, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Age, new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.Designation.DesignationName, "DesignationId", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("DesignationId", null, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.Depertment.DepertmentName, "DepertmentId", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("DepertmentId", null, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(m => m.ImagePath, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <input type="file" name="img" />
+        </div>
+    </div>
+
+    <br />
+    <br />
+    <input type="submit" class="btn btn-success" value="Save" />
+    <br />
+    <br />
+    @Html.ActionLink("Back to List", "Crud")
+}
+
+
+<table class="table table-striped">
+    <tr>
+        <th>Employee Name</th>
+        <th>Gender</th>
+        <th>JoinningDate Date</th>
+        <th>Email</th>
+        <th>Age</th>
+        <th>Designation Name</th>
+        <th>Depertment Name</th>
+        <th>Photo</th>
+    </tr>
+    @foreach (var item in listMessage)
+    {
+        <tr>
+            <td>@item.EmployeeName</td>
+            <td>@item.Gender</td>
+            <td>@item.JoinningDate</td>
+            <td>@item.Email</td>
+            <td>@item.Age</td>
+            <td>@Html.DisplayFor(m => item.Designation.DesignationName)</td>
+            <td>@Html.DisplayFor(m => item.Depertment.DepertmentName)</td>
+            <td><img src="@item.ImagePath" width="120" height="150"></td>
+            <td><a href="/Employees/Crud?id=@item.EmployeeId"class="btn btn-success">Edit</a></td>
+            <td><a href="/Employees/Delete?id=@item.EmployeeId" onclick="return confirm('Are you sure to delete?')"class="btn btn-danger">Delete</a></td>
+            <td><a href="/Employees/ExportEmployee?id=@item.EmployeeId" class="btn btn-sm btn-primary">Master Details</a></td>
+        </tr>
+    }
+</table>
+<p>
+    <a href="@Url.Action("ExportEmployeeDetails")" class="btn btn-success">Details Report</a>
+</p>

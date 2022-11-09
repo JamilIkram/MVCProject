@@ -1,0 +1,51 @@
+﻿@model IEnumerable<NewRole.Models.DataBind.Depertment>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listTblUserRole = (List<NewRole.Models.DataBind.TblUserRole>)Session["TblUserRoles"];
+}
+
+<h2>Index</h2>
+
+<p>
+    @if (listTblUserRole.Where(o => o.PageName == "Depertments" && o.IsCreate == true).FirstOrDefault() != null)
+    {
+        @Html.ActionLink("Create New", "Create")
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DepertmentName)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepertmentName)
+            </td>
+
+            <td>
+                @if (listTblUserRole.Where(o => o.PageName == "Depertments" && o.IsUpdate == true).FirstOrDefault() != null)
+                {
+                    <a href="/Depertments/Edit?id=@item.DepertmentId">Edit</a>
+                }
+                |
+                @if (listTblUserRole.Where(o => o.PageName == "Depertments" && o.IsRead == true).FirstOrDefault() != null)
+                {
+                    @Html.ActionLink("Details", "Details", new { id = item.DepertmentId })
+                }
+                |
+                @if (listTblUserRole.Where(o => o.PageName == "Depertments" && o.IsDelete == true).FirstOrDefault() != null)
+                {
+                    @Html.ActionLink("Delete", "Delete", new { id = item.DepertmentId })
+                }
+            </td>
+        </tr>
+    }
+</table>

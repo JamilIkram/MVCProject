@@ -1,0 +1,578 @@
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\NewRole.dll.config
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\NewRole.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\NewRole.pdb
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\csc.exe
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\csc.exe.config
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\csc.rsp
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\csi.exe
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\csi.exe.config
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\csi.rsp
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.AppContext.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Console.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.IO.Compression.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Net.Http.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.ValueTuple.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\vbc.exe
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\vbc.exe.config
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\vbc.rsp
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Antlr3.Runtime.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\EntityFramework.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\EntityFramework.SqlServer.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Newtonsoft.Json.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Helpers.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Mvc.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Optimization.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Razor.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.WebPages.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\WebGrease.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\EntityFramework.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\EntityFramework.SqlServer.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Helpers.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Mvc.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Optimization.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.Razor.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.WebPages.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Newtonsoft.Json.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Antlr3.Runtime.pdb
+C:\Users\JAMIL\Desktop\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JAMIL\Desktop\NewRole\NewRole\obj\Debug\NewRole.csproj.CoreCompileInputs.cache
+C:\Users\JAMIL\Desktop\NewRole\NewRole\obj\Debug\NewRole.csproj.CopyComplete
+C:\Users\JAMIL\Desktop\NewRole\NewRole\obj\Debug\NewRole.dll
+C:\Users\JAMIL\Desktop\NewRole\NewRole\obj\Debug\NewRole.pdb
+C:\Users\JAMIL\Desktop\NewRole\NewRole\obj\Debug\NewRole.csproj.AssemblyReference.cache
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.AssemblyReference.cache
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.pdb
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll.config
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.pdb
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe.config
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.rsp
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe.config
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.rsp
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.AppContext.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Console.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe.config
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.rsp
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportSource.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.Shared.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\WebGrease.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\stdole.dll
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.pdb
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB-1\Desktop\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CopyComplete
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll.config
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.pdb
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe.config
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.rsp
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe.config
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.rsp
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.AppContext.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Collections.Immutable.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Console.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Globalization.Calendars.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Http.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Sockets.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Reflection.Metadata.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.ValueTuple.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe.config
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.rsp
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe.config
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.CrystalReports.Engine.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportSource.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.Shared.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.Web.Infrastructure.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\WebGrease.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\stdole.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.pdb
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.AssemblyReference.cache
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CoreCompileInputs.cache
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CopyComplete
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.dll
+G:\ABC\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.pdb
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll.config
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.pdb
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe.config
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.rsp
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe.config
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.rsp
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.AppContext.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Console.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Http.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.ValueTuple.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe.config
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.rsp
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportSource.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.Shared.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\WebGrease.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\stdole.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.pdb
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CoreCompileInputs.cache
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CopyComplete
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.dll
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.pdb
+C:\Users\JAMIL\Desktop\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.AssemblyReference.cache
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll.config
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.pdb
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe.config
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.rsp
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe.config
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.rsp
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.AppContext.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Console.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Http.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.ValueTuple.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe.config
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.rsp
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportSource.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.Shared.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\WebGrease.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\stdole.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.pdb
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.AssemblyReference.cache
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CoreCompileInputs.cache
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CopyComplete
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.dll
+C:\Users\JAMIL\Desktop\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.pdb
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll.config
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\NewRole.pdb
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.exe.config
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csc.rsp
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.exe.config
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\csi.rsp
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.AppContext.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Console.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Http.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.ValueTuple.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.exe.config
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\vbc.rsp
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\WebGrease.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\EntityFramework.SqlServer.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Helpers.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Mvc.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Optimization.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.Razor.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\System.Web.WebPages.Razor.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Newtonsoft.Json.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Antlr3.Runtime.pdb
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CoreCompileInputs.cache
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.CopyComplete
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.pdb
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportSource.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.Shared.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\bin\stdole.dll
+E:\ASP.Net MVC\Running FIle\Who\New folder (2)\NewRole24.07.2022\NewRole\NewRole\obj\Debug\NewRole.csproj.AssemblyReference.cache
